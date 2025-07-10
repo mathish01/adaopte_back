@@ -3,4 +3,5 @@
 .env
 
 /src/generated/prisma
-/src/scripts/createadmin.ts
+scripts/createadmin.ts
+
